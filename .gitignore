@@ -1,0 +1,10 @@
+.env
+.node_modules/
+.dist/
+.build/
+.cache/
+.logs
+.temp/
+.backup
+.backup/
+.backup/
